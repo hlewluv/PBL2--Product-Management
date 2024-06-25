@@ -1,0 +1,4 @@
+MH001, DonVi1, TenHang1,705,5
+MH003, DonVi3, TenHang3,315,7
+MH009, DonVi9, TenHang9,100,9
+MH004,DonVi4,TenHang4,75,12
